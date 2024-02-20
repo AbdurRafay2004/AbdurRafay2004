@@ -15,13 +15,13 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/abdur-rafay2004/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
   <a href="https://www.facebook.com/AbdurRafay2004"><img src="https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white"></a>
-  <a href="Your portfolio or blog link"><img src="https://img.shields.io/badge/-Portfolio-blueviolet"></a>
+  <a href="[Your portfolio or blog link](https://github.com/AbdurRafay2004#hey-there--im-abdur-rafay-pursuing-bsc-in-cse-)"><img src="https://img.shields.io/badge/-Portfolio-blueviolet"></a>
   <!--a href="Your Twitter profile link"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=twitter&logoColor=white"></a-->
-  <img src="https://komarev.com/ghpvc/?username=abdurrafay2004&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrafay2004" />
+  <a href="https://github.com/AbdurRafay2004#hey-there--im-abdur-rafay-pursuing-bsc-in-cse-"><img src="https://komarev.com/ghpvc/?username=abdurrafay2004&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrafay2004" /></a>
 </p>
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurrafay2004&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="abdurrafay2004" /></p>
+<p><a href = "https://github.com/AbdurRafay2004#hey-there--im-abdur-rafay-pursuing-bsc-in-cse-"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurrafay2004&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="abdurrafay2004" /></a></p>
 
 
 <p style="text-align: left;">
@@ -57,10 +57,10 @@
 
 ## My Statistics
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;"><a href = "https://github.com/AbdurRafay2004#hey-there--im-abdur-rafay-pursuing-bsc-in-cse-">
   <img src="https://github-readme-stats.vercel.app/api?username=abdurrafay2004&show_icons=true&theme=dracula&hide_border=true" width="440" height="auto" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrafay2004&theme=dracula&hide_border=true" width="450" height="auto" />
-</div>
+</a></div>
 
 
 ### ✍️ Random Dev Quote
