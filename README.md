@@ -11,12 +11,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrafay2004&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrafay2004" /> </p>
 
-- 🌱 I’m currently learning **C++, Flutter**
+<p text-align="left">
+ 🌱 I’m currently learning: 
+  <br>- Flutter, C++
+</p>
 
 <p style="text-align: left;">
   <!--💬 Ask me about [Your Expertise or Interests]<br> -->
   📫 Contact: <b>rafay.promail@gmail.com</b>
-  
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -34,7 +36,7 @@
 
 ## -- LANGUAGE \ TOOLS \ TECHNOLOGIES --
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="null">
     <img src="https://skillicons.dev/icons?i=vscode,github,git,androidstudio,c,cpp,dart,flutter,ai,discord,ps,pr,unreal&perline=9" />
   </a>
 </p>
