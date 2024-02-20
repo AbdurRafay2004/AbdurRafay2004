@@ -23,7 +23,7 @@
 ## -- LANGUAGE \ TOOLS \ TECHNOLOGIES --
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,android,c,cpp,dart,flutter,ai,discord,ps,unreal&perline=9" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,androidstudio,c,cpp,dart,flutter,ai,discord,ps,pr,unreal&perline=9" />
   </a>
 </p>
 
