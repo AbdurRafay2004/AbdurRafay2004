@@ -39,7 +39,7 @@
 <br>
 
 
-## -- LANGUAGE \ TOOLS \ TECHNOLOGIES --
+## LANGUAGE \ TOOLS \ TECHNOLOGIES
 <p align="center">
   <a href="https://github.com/AbdurRafay2004#---language--tools--technologies---">
     <img src="https://skillicons.dev/icons?i=vscode,github,git,androidstudio,c,cpp,dart,flutter,ai,discord,ps,pr,unreal&perline=6" />
