@@ -46,7 +46,6 @@
 
 
 ## My Statistics
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurrafay2004&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="abdurrafay2004" /></p>
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=abdurrafay2004&show_icons=true&theme=dracula&hide_border=true" width="440" height="auto" />
