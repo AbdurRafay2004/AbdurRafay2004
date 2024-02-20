@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++, Flutter**
 
-- 📫 How to reach me **rafay.promail@gmail.com**
+- 📫 How to reach me <b>rafay.promail@gmail.com</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
