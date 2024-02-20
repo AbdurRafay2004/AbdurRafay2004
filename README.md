@@ -38,10 +38,9 @@
 
 ## My Statistics
 
-<p align="center">
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=abdurrafay2004&show_icons=true&theme=dracula&hide_border=true" />
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrafay2004&theme=dracula&hide_border=true" />
-  </div>
-</p>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdurrafay2004&show_icons=true&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrafay2004&theme=dracula&hide_border=true" />
+</div>
+
 
