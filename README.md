@@ -9,7 +9,7 @@
 
 <p style="text-align: left;">
   <!--💬 Ask me about [Your Expertise or Interests]<br> -->
-  📫 Contact: <b>jasperrai@gmail.com</b>
+  📫 Contact: <b>rafay.promail@gmail.com</b>
   
 </p>
 
