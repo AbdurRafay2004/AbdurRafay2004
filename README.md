@@ -9,7 +9,7 @@
 
 <p style="text-align: left;">
  🌱 I’m currently learning: 
-  <br>- Flutter, C++
+  <br>  - Flutter, C++
 </p>
 
 <p style="text-align: left;">
