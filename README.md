@@ -45,8 +45,6 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurrafay2004&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="abdurrafay2004" /></p>
-
 ## My Statistics
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurrafay2004&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="abdurrafay2004" /></p>
 
