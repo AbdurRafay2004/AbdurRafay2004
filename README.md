@@ -6,8 +6,8 @@
 
 <div align="center">
   <div style="max-width: 800px; text-align: left; margin: 0 auto;">
-
 <br>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrafay2004&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrafay2004" /> </p>
 
