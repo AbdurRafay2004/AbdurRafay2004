@@ -20,6 +20,12 @@
 </p>
 
 
+<div align="center">
+  <div style="max-width: 800px; text-align: left; margin: 0 auto;">
+
+<br>
+
+
 ## -- LANGUAGE \ TOOLS \ TECHNOLOGIES --
 <p align="center">
   <a href="https://skillicons.dev">
