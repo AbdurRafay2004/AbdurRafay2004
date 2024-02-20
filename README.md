@@ -2,7 +2,7 @@
 <h1 align="center">Hey there 👋, I'm Abdur Rafay</h1>
 <h3 align="center">Pursuing BSc. in CSE 😇</h3>
 
-<p><img width="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurrafay2004&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="abdurrafay2004" /></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrafay2004&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrafay2004" /> </p>
 
