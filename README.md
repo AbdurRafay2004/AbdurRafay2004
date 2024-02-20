@@ -7,7 +7,11 @@
 
 - 🌱 I’m currently learning **C++, Flutter**
 
-- 📫 How to reach me <b>rafay.promail@gmail.com</b>
+<p style="text-align: left;">
+  <!--💬 Ask me about [Your Expertise or Interests]<br> -->
+  📫 Contact: <b>jasperrai@gmail.com</b>
+  
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
