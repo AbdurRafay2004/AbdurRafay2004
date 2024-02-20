@@ -4,6 +4,10 @@
 
 <p><img width="350" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurrafay2004&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="abdurrafay2004" /></p>
 
+<div align="center">
+  <div style="max-width: 200px; text-align: left; margin: 0 auto;">
+
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrafay2004&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrafay2004" /> </p>
 
