@@ -2,7 +2,14 @@
 ### <div align="center">Hey there<img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">  I'm Abdur Rafay. Pursuing BSc. in CSE 👨‍💻</div>  
 <hr>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurrafay2004&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="abdurrafay2004" /></p>
+<p align="center">
+  <a href="Your LinkedIn profile link"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+  <a href="Your portfolio or blog link"><img src="https://img.shields.io/badge/-Portfolio-blueviolet"></a>
+  <a href="Your Twitter profile link"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=twitter&logoColor=white"></a>
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurrafay2004&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="abdurrafay2004" />
+</p>
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrafay2004&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrafay2004" /> </p>
