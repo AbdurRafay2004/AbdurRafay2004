@@ -3,7 +3,8 @@
 <hr>
 
 <p align="center">
-  <a href="Your LinkedIn profile link"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/abdur-rafay2004/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.facebook.com/AbdurRafay2004"><img src="https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Linkedin&logoColor=white"></a>
   <a href="Your portfolio or blog link"><img src="https://img.shields.io/badge/-Portfolio-blueviolet"></a>
   <!--a href="Your Twitter profile link"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=twitter&logoColor=white"></a-->
   <img src="https://komarev.com/ghpvc/?username=abdurrafay2004&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrafay2004" />
