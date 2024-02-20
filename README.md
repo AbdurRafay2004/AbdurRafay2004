@@ -15,8 +15,7 @@
 
 
 <p style="text-align: left;">
- 🌱 I’m currently learning: 
-  <br>  - Flutter, C++
+ 🌱 I’m currently learning: <b> Flutter, C++</b>
 </p>
 
 <p style="text-align: left;">
