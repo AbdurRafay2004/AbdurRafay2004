@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrafay2004&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrafay2004" /> </p>
 
-<p text-align="left">
+<p style="text-align: left;">
  🌱 I’m currently learning: 
   <br>- Flutter, C++
 </p>
