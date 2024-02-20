@@ -1,6 +1,6 @@
-<div align="center"> 
+<div align="center"> <a href = "https://github.com/AbdurRafay2004#hey-there--im-abdur-rafay-pursuing-bsc-in-cse-">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:dfc2fb,100:aeadfd&height=120&section=header" />
-  
+</a>
   <!--a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=aeadfd&center=true&width=850&lines=%22No+great+thing+is+created+suddenly.%22+-+Epictetus" alt="Typing No great thing is created suddenly - Epictetus" /></a-->
   
 </div>
@@ -64,9 +64,9 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+<a href="https://github.com/AbdurRafay2004#%EF%B8%8F-random-dev-quote"> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula) </a>
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:dfc2fb,100:aeadfd&height=120&section=footer" />
+  <a href="https://github.com/AbdurRafay2004#%EF%B8%8F-random-dev-quote"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:dfc2fb,100:aeadfd&height=120&section=footer" /></a>
   
   </div>
 
