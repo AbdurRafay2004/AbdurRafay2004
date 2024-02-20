@@ -36,7 +36,7 @@
 
 ## -- LANGUAGE \ TOOLS \ TECHNOLOGIES --
 <p align="center">
-  <a href="null">
+  <a >
     <img src="https://skillicons.dev/icons?i=vscode,github,git,androidstudio,c,cpp,dart,flutter,ai,discord,ps,pr,unreal&perline=9" />
   </a>
 </p>
