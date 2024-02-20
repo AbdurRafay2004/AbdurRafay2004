@@ -2,7 +2,7 @@
 <h1 align="center">Hey there 👋, I'm Abdur Rafay</h1>
 <h3 align="center">Pursuing BSc. in CSE 😇</h3>
 
-<p><img width="350" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurrafay2004&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="abdurrafay2004" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurrafay2004&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="abdurrafay2004" /></p>
 
 <div align="center">
   <div style="max-width: 800px; text-align: left; margin: 0 auto;">
