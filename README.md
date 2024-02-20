@@ -34,7 +34,7 @@
 
 
 <div align="center">
-  <div style="max-width: 1500px; text-align: left; margin: 0 auto;">
+  <div style="max-width: 2500px; text-align: center; margin: 0 auto;">
 
 <br>
 
