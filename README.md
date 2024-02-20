@@ -1,4 +1,14 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+<div align="center"> 
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:dfc2fb,100:aeadfd&height=120&section=header" />
+  
+  <!--a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=aeadfd&center=true&width=850&lines=%22No+great+thing+is+created+suddenly.%22+-+Epictetus" alt="Typing No great thing is created suddenly - Epictetus" /></a-->
+  
+</div>
+  
+<!--
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
+-->
+
 ### <div align="center">Hey there<img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">  I'm Abdur Rafay. Pursuing BSc. in CSE 👨‍💻</div>  
 <hr>
 
@@ -53,4 +63,5 @@
 </div>
 
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:dfc2fb,100:aeadfd&height=120&section=footer" />
+</div>
