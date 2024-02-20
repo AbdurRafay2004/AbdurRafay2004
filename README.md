@@ -40,8 +40,8 @@
 
 <br/>
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=abdurrafay2004&show_icons=true&theme=dracula&hide_border=true" />
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrafay2004&theme=dracula&hide_border=true" />
+  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=abdurrafay2004&show_icons=true&theme=dracula&hide_border=true" />
+    <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrafay2004&theme=dracula&hide_border=true" />
   </a>
 </p>
 <br>
