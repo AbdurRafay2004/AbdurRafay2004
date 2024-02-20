@@ -63,5 +63,10 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:dfc2fb,100:aeadfd&height=120&section=footer" />
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:dfc2fb,100:aeadfd&height=120&section=footer" />
+  
+  </div>
+
