@@ -28,8 +28,13 @@
  🌱 I’m currently learning: <b> Flutter, C++, Python🐍</b>
 </p>
 <p style="text-align: left;">
- ⚒️ Currently working on: [Tic-Tac-Toe](https://github.com/AbdurRafay2004/Tic-Tac-Toe)**
+ <!--🔭 Currently working on: [Tic-Tac-Toe]( https://github.com/AbdurRafay2004/Tic-Tac-Toe )-->
 </p>
+<div align="left">
+ 
+ ⚒️ I’m currently working on: [**Tic-Tac-Toe**](https://github.com/AbdurRafay2004/Tic-Tac-Toe)
+
+ </div>
 <p style="text-align: left;">
   <!--💬 Ask me about [Your Expertise or Interests]<br> -->
   📫 Contact: 
