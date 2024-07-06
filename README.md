@@ -25,7 +25,7 @@
 
 
 <p style="text-align: left;">
- 🌱 I’m currently learning: <b> Flutter, C++, Python🐍</b>
+  🌱 I’m currently learning: <b> Flutter, C++, Python🐍</b>
 </p>
 <p style="text-align: left;">
  <!--🔭 Currently working on: [Tic-Tac-Toe]( https://github.com/AbdurRafay2004/Tic-Tac-Toe )-->
@@ -33,8 +33,15 @@
 <div align="left">
  
  ⚒️ I’m currently working on: [**Tic-Tac-Toe**](https://github.com/AbdurRafay2004/Tic-Tac-Toe)
+<dl>
+    <dd>Check it out! It has some cool feature😶 (some are in progress)</dd>
+</dl>
 
- </div>
+
+   
+</div>
+
+ 
 <p style="text-align: left;">
   <!--💬 Ask me about [Your Expertise or Interests]<br> -->
   📫 Contact: 
@@ -57,7 +64,7 @@
 ## LANGUAGE \ TOOLS \ TECHNOLOGIES
 <p align="center">
   <a href="https://github.com/AbdurRafay2004#---language--tools--technologies---">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,dart,flutter,vscode,github,git,androidstudio,ai,ps,pr,unreal,discord&perline=7" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,dart,flutter,vscode,github,git,androidstudio,ai,ps,pr,unreal,discord&perline=9" />
   </a>
 </p>
 
