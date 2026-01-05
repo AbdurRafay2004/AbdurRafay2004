@@ -32,9 +32,9 @@
 </p>
 <div align="left">
  
- ⚒️ I’m currently working on: [**Python শিখি বাংলায় - Website**](https://github.com/AbdurRafay2004/Python_sikhi_banglay)
+ ⚒️ I’m currently working on: [**Hyper Local Donation Project**](https://github.com/AbdurRafay2004/Hyper-local-donation-website)
 <dl>
-    <dd>Check it out! It has some cool feature😶 (some are in progress)</dd>
+    <dd>Check it out! It has some cool feature😶 (many are in progress)</dd>
 </dl>
 
 
