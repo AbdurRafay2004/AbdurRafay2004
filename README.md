@@ -32,9 +32,9 @@
 </p>
 <div align="left">
  
- ⚒️ I’m currently working on: [**Hyper Local Donation Project**](https://github.com/AbdurRafay2004/Hyper-local-donation-website)
+ ⚒️ I’m currently working on: [**Karu - A Handicraf Marketplace**](https://github.com/AbdurRafay2004/KARU)
 <dl>
-    <dd>Check it out! It has some cool feature😶 (many are in progress)</dd>
+    <dd>Check it out! It has some cool feature😶 (More than an MVP)</dd>
 </dl>
 
 
