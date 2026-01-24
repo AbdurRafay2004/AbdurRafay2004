@@ -25,7 +25,7 @@
 
 
 <p style="text-align: left;">
-  🌱 I’m currently learning: <b> Flutter, C++, Python🐍</b>
+  🌱 I’m currently learning: <b> Typescipt, Next.js, Python🐍</b>
 </p>
 <p style="text-align: left;">
  <!--🔭 Currently working on: [Tic-Tac-Toe]( https://github.com/AbdurRafay2004/Tic-Tac-Toe )-->
